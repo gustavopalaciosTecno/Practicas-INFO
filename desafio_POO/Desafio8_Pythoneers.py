@@ -11,7 +11,7 @@ class Usuario:
         self.avatar = avatar
         self.estado = estado
         self.online = online
-        
+    #gg    
     print("Registrar usuario")   
     def registrar(self):
         return f"Identificador: {self._id}\n" \
